@@ -34,6 +34,7 @@
 		31D97E652471B3DB00F50CE3 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		31D97E672471B3F400F50CE3 /* CancelableRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CancelableRequest.swift; sourceTree = "<group>"; };
 		31D97E692471B40A00F50CE3 /* BackendApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackendApiService.swift; sourceTree = "<group>"; };
+		31D97E6E2471BC0600F50CE3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +51,7 @@
 		31D97E392471B02F00F50CE3 = {
 			isa = PBXGroup;
 			children = (
+				31D97E6D2471BBE400F50CE3 /* Meta */,
 				31D97E442471B02F00F50CE3 /* education */,
 				31D97E432471B02F00F50CE3 /* Products */,
 			);
@@ -144,6 +146,14 @@
 				31D97E692471B40A00F50CE3 /* BackendApiService.swift */,
 			);
 			path = ApiService;
+			sourceTree = "<group>";
+		};
+		31D97E6D2471BBE400F50CE3 /* Meta */ = {
+			isa = PBXGroup;
+			children = (
+				31D97E6E2471BC0600F50CE3 /* README.md */,
+			);
+			name = Meta;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
