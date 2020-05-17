@@ -214,6 +214,5 @@ URLSession - для отправки запросов
 Канал Алексея Скутаренко - [https://www.youtube.com/user/AlexSkutarenko/playlists](https://bit.ly/2WEoCmr)
 Канал The swift developers - [https://www.youtube.com/channel/UCiyiEAeWUuuPj6tt_jePALQ/playlists](https://bit.ly/3bHD1T8)
 Канал SwiftBool - https://www.youtube.com/channel/UCXlCPCsB09ftBA5bQfiSWoQ/videos
-
 Курсы Raywenderlich - https://www.raywenderlich.com/
 Курсы SwiftBook - http://swiftbook.ru
