@@ -220,3 +220,5 @@ URLSession - для отправки запросов
 Курсы Raywenderlich - https://www.raywenderlich.com/
 
 Курсы SwiftBook - http://swiftbook.ru
+
+The Book of VIPER - [https://github.com/strongself/The-Book-of-VIPER](https://bit.ly/36bJ55l)
