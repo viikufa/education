@@ -210,6 +210,11 @@ URLSession - для отправки запросов
 [https://developer.apple.com/documentation/foundation/archives_and_serialization/using_json_with_custom_types](https://apple.co/3cF5URr)
 [https://developer.apple.com/documentation/foundation/url_loading_system](https://apple.co/2X3nd8a)
 
+### Routing
+
+Тут оставлю ссылочку на видео по простым переходам между экранами [https://www.youtube.com/watch?v=I3mRpo-bSD8](https://bit.ly/3g23lL6)
+
+
 # Еще ссылочки на обучение
 Канал Алексея Скутаренко - [https://www.youtube.com/user/AlexSkutarenko/playlists](https://bit.ly/2WEoCmr)
 
